@@ -3,7 +3,7 @@ opencv-python-headless==4.8.0.76
 pandas>=1.5.3
 numpy>=1.24.3,<2.0.0
 pillow>=9.4.0
-tensorflow-cpu>=2.15.0  # Updated to support Python 3.13
+tensorflow-cpu>=2.15.0
 fer==22.5.1
 mtcnn==0.1.1
-protobuf>=3.19.0  # Updated protobuf constraint
+protobuf>=3.19.0
